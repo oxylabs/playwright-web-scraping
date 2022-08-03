@@ -8,7 +8,7 @@
 
 This article discusses everything you need to know about news scraping, including the benefits and use cases of news scraping as well as how you can use Python to create an article scraper.
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/playwright-web-scraping).
+For a detailed explanation, see our [blog post](https://oxy.yt/erHw).
 
 
 ## Support for proxies in Playwright
@@ -169,4 +169,4 @@ if __name__ == '__main__':
     asyncio.run(main())
 ```
 
-If you wish to find out more about Web Scraping With Playwright, see our [blog post](https://oxylabs.io/blog/playwright-web-scraping).
+If you wish to find out more about Web Scraping With Playwright, see our [blog post](https://oxy.yt/erHw).
